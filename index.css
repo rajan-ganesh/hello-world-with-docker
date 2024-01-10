@@ -19,6 +19,7 @@ body {
 }
 
 button {
+    cursor: pointer;
     background-color:darkslategray;
     color: aliceblue;
     font-weight: bolder;
